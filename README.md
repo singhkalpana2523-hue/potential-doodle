@@ -8,7 +8,7 @@ This portfolio showcases my projects, skills, and experience as an Artificial In
 
 ## 🚀 Live Website
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://potential-doodle-ecru.vercel.app/
 
 ---
 
